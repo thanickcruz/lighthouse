@@ -90,8 +90,8 @@ const InsuranceOptions: React.FC = () => {
                     <TableHead>
                         <TableRow>
                             <TableCell>ID</TableCell>
-                            <TableCell>Name</TableCell>
-                            <TableCell>Coverage</TableCell>
+                            <TableCell>Plan Name</TableCell>
+                            <TableCell>Provider</TableCell>
                             <TableCell>Premium</TableCell>
                         </TableRow>
                     </TableHead>
@@ -101,7 +101,6 @@ const InsuranceOptions: React.FC = () => {
                                 <TableCell>{option.id}</TableCell>
                                 <TableCell>{option.plan_name}</TableCell>
                                 <TableCell>{option.name}</TableCell>
-                                <TableCell>{option.coverage}</TableCell>
                                 <TableCell>{option.premium}</TableCell>
                             </TableRow>
                         ))}
