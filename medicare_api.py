@@ -7,7 +7,6 @@ query = '[SELECT * FROM 10ab1332-3857-537a-8ffa-cbe91dbe4c65][WHERE City\Town = 
 
 # URL-encode the query
 encoded_query = urllib.parse.quote(query)
-print(encoded_query)
 
 # Construct the full URL
 url = f'https://data.cms.gov/provider-data/api/1/datastore/sql?query={encoded_query}&show_db_columns'
