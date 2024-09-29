@@ -1,0 +1,2882 @@
+[
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$394.99"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$395.24"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$414.74"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$415.00"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$474.37"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$475.18"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$475.42"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$480.00"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$496.57"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$501.36"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$505.36"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$506.23"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$514.80"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$521.90"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$524.57"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$526.94"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$532.91"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$533.83"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$542.97"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$546.88"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$546.88"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$553.29"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$557.28"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$557.28"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$671.48"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$671.91"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$705.06"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$705.50"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$789.98"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$790.48"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$806.43"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$807.81"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$808.21"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$816.00"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$829.48"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$830.00"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$844.17"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$852.31"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$859.11"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$860.59"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$875.16"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$887.23"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$891.77"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$895.80"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$905.95"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$907.51"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$923.06"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$929.69"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$929.69"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$940.60"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$947.37"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$947.37"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$948.74"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$950.36"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$950.84"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$960.00"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$993.14"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,002.72"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,010.72"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,012.46"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,029.60"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,043.80"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,049.15"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,053.88"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,065.82"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,067.66"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,085.94"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,093.76"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,093.76"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,106.58"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,114.56"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,114.56"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,125.72"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,126.43"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,182.01"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,182.75"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,351.95"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,354.26"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,354.95"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,368.00"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,415.22"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,428.88"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,440.28"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,442.76"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,467.18"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,487.42"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,495.04"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Bronze ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,501.78"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,518.79"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,521.42"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,547.47"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,558.61"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,558.61"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,576.88"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,588.24"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Bronze",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,588.24"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$512.97"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$526.04"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$538.62"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$552.34"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$641.04"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$642.15"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$644.90"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$649.76"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$651.12"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$656.01"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$677.80"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$681.31"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$682.49"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$684.32"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$709.68"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$714.78"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$720.15"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$721.40"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$723.17"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$728.36"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$872.05"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$894.27"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$915.65"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$938.98"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,025.94"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,052.08"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,077.24"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,089.77"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,091.66"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,096.33"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,104.59"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,104.68"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,106.90"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,115.22"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,152.26"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,158.23"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,160.23"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,163.34"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,206.46"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,215.12"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,224.26"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,226.38"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,229.38"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,238.21"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,282.08"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,284.30"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,289.80"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,299.52"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,302.24"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,312.02"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,355.60"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,362.62"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,364.98"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,368.64"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,419.36"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,429.55"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,440.30"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,442.80"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,446.33"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,456.72"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,461.96"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,499.21"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,535.07"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,574.17"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,826.96"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,830.13"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,837.97"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,851.82"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Max Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,855.69"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,869.63"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,931.73"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,941.73"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,945.10"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Silver ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Silver",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,950.31"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,022.58"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,037.11"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,052.43"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,055.99"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,061.03"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Silver",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,075.83"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$664.31"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$679.02"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$697.52"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$712.97"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$777.11"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$784.60"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$802.80"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$810.53"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$816.75"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$824.62"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$830.14"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$831.59"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$882.30"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$883.83"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$888.02"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$904.90"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$919.75"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$932.60"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$934.21"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$937.23"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,129.33"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,154.33"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,185.78"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,212.05"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,321.09"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,328.62"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,333.82"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,358.04"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,364.76"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,377.90"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,388.48"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,395.04"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,401.85"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,411.24"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,413.70"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,425.94"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,499.91"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,502.51"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,509.64"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,538.34"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,554.22"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,563.58"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,569.20"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,585.42"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,588.16"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,593.29"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,605.60"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,621.06"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,633.50"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,649.24"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,660.28"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,663.18"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,764.60"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,767.66"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,776.05"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,809.80"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,839.51"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,865.20"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,868.42"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,874.45"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,893.28"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,935.21"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$1,987.93"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,031.96"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,214.76"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,236.11"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,287.98"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,310.01"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,327.74"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Gold ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Gold",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,350.17"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,365.90"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,370.03"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,514.56"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,518.92"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,530.86"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,578.97"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,621.30"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,657.91"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,662.50"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Gold",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,671.09"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$810.50"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$851.02"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$941.57"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$950.63"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$989.59"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$999.12"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,012.84"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,014.60"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,055.80"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,057.64"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,061.07"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,071.35"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,081.24"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,091.70"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,137.84"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$1,139.82"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,377.85"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,446.73"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,600.67"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,616.07"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,621.00"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,682.30"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,698.50"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,702.04"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,721.83"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,724.82"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,794.86"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,797.99"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,803.83"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,821.29"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,838.10"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,855.90"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,883.14"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,901.26"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,934.33"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$1,937.69"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,979.18"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$1,998.24"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,025.68"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,029.20"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,111.60"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,115.28"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,122.15"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,142.69"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,162.47"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,183.41"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,275.68"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$2,279.64"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,309.93"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,425.41"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,683.47"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "FlexFit Platinum NS OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,709.30"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep25",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,820.33"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Platinum ST OON IHC Network Marketplace Dep29",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,847.49"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,886.59"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$2,891.61"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,009.03"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,014.27"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,024.06"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,053.33"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,081.52"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,111.35"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,242.84"
+    },
+    {
+        "insurance": "Highmark Blue Cross Blue Shield",
+        "plan_name": "Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",
+        "metal_level": "Platinum",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$3,248.49"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$171.07"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$290.82"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$300.75"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Catastrophic ST INN IHC Network Marketplace Dep25",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical",
+        "persons_convered": "Individual",
+        "price_per_month": "$341.17"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$342.14"
+    },
+    {
+        "insurance": "Fidelis Care",
+        "plan_name": "Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$487.55"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$511.27"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Catastrophic ST INN IHC Network Marketplace Dep25",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$579.99"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$601.50"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Catastrophic ST INN IHC Network Marketplace Dep25",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple",
+        "price_per_month": "$682.34"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical Plus Child Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$857.14"
+    },
+    {
+        "insurance": "Independent Health",
+        "plan_name": "Standard Catastrophic ST INN IHC Network Marketplace Dep25",
+        "metal_level": "Catastrophic",
+        "coverage_type": "Medical",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$972.33"
+    },
+    {
+        "insurance": "Solstice Health Insurance Company",
+        "plan_name": "EssentialSmile EPO 111 NS INN Dep 29 Family Dental",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$8.54"
+    },
+    {
+        "insurance": "Delta Dental of New York, Inc.",
+        "plan_name": "Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$14.86"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$14.98"
+    },
+    {
+        "insurance": "Solstice Health Insurance Company",
+        "plan_name": "EssentialSmile EPO 111 NS INN Dep 29 Family Dental",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$17.08"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$17.58"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$19.98"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$27.79"
+    },
+    {
+        "insurance": "Solstice Health Insurance Company",
+        "plan_name": "EssentialSmile EPO 111 NS INN Dep 29 Family Dental",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$29.19"
+    },
+    {
+        "insurance": "Delta Dental of New York, Inc.",
+        "plan_name": "Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$29.72"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$30.41"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$35.70"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Individual",
+        "price_per_month": "$39.00"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$40.56"
+    },
+    {
+        "insurance": "Solstice Health Insurance Company",
+        "plan_name": "EssentialSmile EPO 111 NS INN Dep 29 Family Dental",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$42.68"
+    },
+    {
+        "insurance": "Delta Dental of New York, Inc.",
+        "plan_name": "Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$46.72"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$49.98"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$52.58"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$54.98"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$55.59"
+    },
+    {
+        "insurance": "Delta Dental of New York, Inc.",
+        "plan_name": "Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$61.58"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$68.17"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$73.45"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple",
+        "price_per_month": "$77.99"
+    },
+    {
+        "insurance": "Guardian",
+        "plan_name": "Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$78.32"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$80.97"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Primary Subscriber And Dependent(S)",
+        "price_per_month": "$103.63"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$122.22"
+    },
+    {
+        "insurance": "Univera Healthcare",
+        "plan_name": "Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",
+        "metal_level": "Low",
+        "coverage_type": "Family Dental",
+        "persons_convered": "Couple And Dependent(S)",
+        "price_per_month": "$158.98"
+    }
+]

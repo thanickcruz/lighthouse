@@ -1,0 +1,361 @@
+insurance,plan_name,metal_level,coverage_type,persons_convered,price_per_month
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$394.99
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$395.24
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$414.74
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$415.00
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$474.37
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$475.18
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Individual,$475.42
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Individual,$480.00
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Individual,$496.57
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Individual,$501.36
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Individual,$505.36
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Individual,$506.23
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Individual,$514.80
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep25,Bronze,Medical,Individual,$521.90
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Individual,$524.57
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep29,Bronze,Medical,Individual,$526.94
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$532.91
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$533.83
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Individual,$542.97
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$546.88
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$546.88
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Individual,$553.29
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$557.28
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Individual,$557.28
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$671.48
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$671.91
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$705.06
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$705.50
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$789.98
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$790.48
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$806.43
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$807.81
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Primary Subscriber And Dependent(S),$808.21
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Primary Subscriber And Dependent(S),$816.00
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$829.48
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$830.00
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Primary Subscriber And Dependent(S),$844.17
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Primary Subscriber And Dependent(S),$852.31
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$859.11
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$860.59
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$875.16
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep25,Bronze,Medical,Primary Subscriber And Dependent(S),$887.23
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$891.77
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep29,Bronze,Medical,Primary Subscriber And Dependent(S),$895.80
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$905.95
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$907.51
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$923.06
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$929.69
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$929.69
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Primary Subscriber And Dependent(S),$940.60
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$947.37
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$947.37
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$948.74
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,$950.36
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Couple,$950.84
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Couple,$960.00
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Couple,$993.14
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Couple,"$1,002.72"
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Couple,"$1,010.72"
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Couple,"$1,012.46"
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Couple,"$1,029.60"
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep25,Bronze,Medical,Couple,"$1,043.80"
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Couple,"$1,049.15"
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep29,Bronze,Medical,Couple,"$1,053.88"
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,065.82"
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,067.66"
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Couple,"$1,085.94"
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,093.76"
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,093.76"
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Couple,"$1,106.58"
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,114.56"
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple,"$1,114.56"
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,125.72"
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,126.43"
+Fidelis Care,"Ambetter from Fidelis Care Bronze, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,182.01"
+Fidelis Care,"Ambetter from Fidelis Care Bronze HSA, Bronze, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,182.75"
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,351.95"
+Highmark Blue Cross Blue Shield,"IND POS 8000, Bronze, NS, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,354.26"
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Couple And Dependent(S),"$1,354.95"
+Independent Health,iDirect Bronze MV Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Couple And Dependent(S),"$1,368.00"
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep25,Bronze,Medical,Couple And Dependent(S),"$1,415.22"
+Independent Health,iDirect Bronze Coinsurance HSAQ Bronze NS OON IHC Network Marketplace Dep29,Bronze,Medical,Couple And Dependent(S),"$1,428.88"
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,440.28"
+Highmark Blue Cross Blue Shield,"Bronze IND POS 8000, Bronze, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,442.76"
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,467.18"
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep25,Bronze,Medical,Couple And Dependent(S),"$1,487.42"
+Univera Healthcare,"Bronze Secure Plus 3, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,495.04"
+Independent Health,Standard Bronze ST OON IHC Network Marketplace Dep29,Bronze,Medical,Couple And Dependent(S),"$1,501.78"
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,518.79"
+Highmark Blue Cross Blue Shield,"Bronze Standard HSAQ, Bronze, ST, OON, POS, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,521.42"
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,547.47"
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,558.61"
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,558.61"
+Univera Healthcare,"Bronze Select, Expanded Bronze, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Bronze,Medical Plus Dental,Couple And Dependent(S),"$1,576.88"
+Univera Healthcare,"Bronze Standard HSA, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,588.24"
+Univera Healthcare,"Bronze Standard, Expanded Bronze, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Bronze,Medical Plus Child Dental,Couple And Dependent(S),"$1,588.24"
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$512.97
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Individual,$526.04
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$538.62
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Individual,$552.34
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$641.04
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$642.15
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Individual,$644.90
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Individual,$649.76
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Individual,$651.12
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Individual,$656.01
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep25,Silver,Medical,Individual,$677.80
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$681.31
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$682.49
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep29,Silver,Medical,Individual,$684.32
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Individual,$709.68
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$714.78
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$720.15
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$721.40
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Individual,$723.17
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Individual,$728.36
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$872.05
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Primary Subscriber And Dependent(S),$894.27
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$915.65
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Primary Subscriber And Dependent(S),$938.98
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,025.94"
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Couple,"$1,052.08"
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,077.24"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,089.77"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,091.66"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Primary Subscriber And Dependent(S),"$1,096.33"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Primary Subscriber And Dependent(S),"$1,104.59"
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Couple,"$1,104.68"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Primary Subscriber And Dependent(S),"$1,106.90"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Primary Subscriber And Dependent(S),"$1,115.22"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep25,Silver,Medical,Primary Subscriber And Dependent(S),"$1,152.26"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,158.23"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,160.23"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep29,Silver,Medical,Primary Subscriber And Dependent(S),"$1,163.34"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,206.46"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,215.12"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,224.26"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,226.38"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,229.38"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,238.21"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,282.08"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,284.30"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Couple,"$1,289.80"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Couple,"$1,299.52"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Couple,"$1,302.24"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Couple,"$1,312.02"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep25,Silver,Medical,Couple,"$1,355.60"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,362.62"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,364.98"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep29,Silver,Medical,Couple,"$1,368.64"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Couple,"$1,419.36"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,429.55"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,440.30"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,442.80"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Couple,"$1,446.33"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple,"$1,456.72"
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,461.96"
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Couple And Dependent(S),"$1,499.21"
+Fidelis Care,"Ambetter from Fidelis Care Silver, Silver, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,535.07"
+Fidelis Care,"Ambetter from Fidelis Care Silver Enhanced, Silver, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Silver,Medical Plus Dental,Couple And Dependent(S),"$1,574.17"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,826.96"
+Highmark Blue Cross Blue Shield,"IND POS 7000, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,830.13"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Couple And Dependent(S),"$1,837.97"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep25,Silver,Medical,Couple And Dependent(S),"$1,851.82"
+Independent Health,Max Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Couple And Dependent(S),"$1,855.69"
+Independent Health,iDirect Silver Copay HSAQ Silver NS OON IHC Network Marketplace Dep29,Silver,Medical,Couple And Dependent(S),"$1,869.63"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep25,Silver,Medical,Couple And Dependent(S),"$1,931.73"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,941.73"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Silver, NS, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$1,945.10"
+Independent Health,Standard Silver ST OON IHC Network Marketplace Dep29,Silver,Medical,Couple And Dependent(S),"$1,950.31"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Couple And Dependent(S),"$2,022.58"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$2,037.11"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep25, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$2,052.43"
+Highmark Blue Cross Blue Shield,"Silver Standard, Silver, ST, OON, POS, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$2,055.99"
+Univera Healthcare,"Silver Select, Silver, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Preventive Rx, Acupuncture",Silver,Medical Plus Dental,Couple And Dependent(S),"$2,061.03"
+Univera Healthcare,"Silver Standard, Silver, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Silver,Medical Plus Child Dental,Couple And Dependent(S),"$2,075.83"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$664.31
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Individual,$679.02
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$697.52
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Individual,$712.97
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Individual,$777.11
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Individual,$784.60
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Individual,$802.80
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Individual,$810.53
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep25,Gold,Medical,Individual,$816.75
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep29,Gold,Medical,Individual,$824.62
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$830.14
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$831.59
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$882.30
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$883.83
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Individual,$888.02
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Individual,$904.90
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$919.75
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$932.60
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$934.21
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Individual,$937.23
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,129.33"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,154.33"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,185.78"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,212.05"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Primary Subscriber And Dependent(S),"$1,321.09"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,328.62"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Primary Subscriber And Dependent(S),"$1,333.82"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Couple,"$1,358.04"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Primary Subscriber And Dependent(S),"$1,364.76"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Primary Subscriber And Dependent(S),"$1,377.90"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep25,Gold,Medical,Primary Subscriber And Dependent(S),"$1,388.48"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,395.04"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep29,Gold,Medical,Primary Subscriber And Dependent(S),"$1,401.85"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,411.24"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,413.70"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Couple,"$1,425.94"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,499.91"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,502.51"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,509.64"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,538.34"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Couple,"$1,554.22"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,563.58"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Couple,"$1,569.20"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,585.42"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,588.16"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,593.29"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Couple,"$1,605.60"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Couple,"$1,621.06"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep25,Gold,Medical,Couple,"$1,633.50"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep29,Gold,Medical,Couple,"$1,649.24"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,660.28"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,663.18"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,764.60"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,767.66"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Couple,"$1,776.05"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Couple,"$1,809.80"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,839.51"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,865.20"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,868.42"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple,"$1,874.45"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$1,893.28"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep25, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Couple And Dependent(S),"$1,935.21"
+Fidelis Care,"Ambetter from Fidelis Care Gold, Gold, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$1,987.93"
+Fidelis Care,"Ambetter from Fidelis Care Gold Enhanced, Gold, NS, INN, Fidelis Care HBX Network, Dep29, Family Vision, Free Telemedicine, Family Dental",Gold,Medical Plus Dental,Couple And Dependent(S),"$2,031.96"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Couple And Dependent(S),"$2,214.76"
+Independent Health,iDirect Gold Copay HSAQ Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Couple And Dependent(S),"$2,236.11"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep25,Gold,Medical,Couple And Dependent(S),"$2,287.98"
+Independent Health,iDirect Gold Copay Gold NS OON IHC Network Marketplace Dep29,Gold,Medical,Couple And Dependent(S),"$2,310.01"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep25,Gold,Medical,Couple And Dependent(S),"$2,327.74"
+Independent Health,Standard Gold ST OON IHC Network Marketplace Dep29,Gold,Medical,Couple And Dependent(S),"$2,350.17"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,365.90"
+Highmark Blue Cross Blue Shield,"IND POS 200, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,370.03"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,514.56"
+Highmark Blue Cross Blue Shield,"IND Destination 65, Gold, NS, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,518.92"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Couple And Dependent(S),"$2,530.86"
+Univera Healthcare,"Gold Select, Gold, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Gold,Medical Plus Dental,Couple And Dependent(S),"$2,578.97"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,621.30"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep25, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,657.91"
+Highmark Blue Cross Blue Shield,"Gold Standard, Gold, ST, OON, POS, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,662.50"
+Univera Healthcare,"Gold Standard, Gold, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Gold,Medical Plus Child Dental,Couple And Dependent(S),"$2,671.09"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,$810.50
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,$851.02
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep25,Platinum,Medical,Individual,$941.57
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep29,Platinum,Medical,Individual,$950.63
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep25,Platinum,Medical,Individual,$989.59
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep29,Platinum,Medical,Individual,$999.12
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,012.84"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,014.60"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Individual,"$1,055.80"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Individual,"$1,057.64"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Individual,"$1,061.07"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,071.35"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Individual,"$1,081.24"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,091.70"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,137.84"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Individual,"$1,139.82"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,377.85"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,446.73"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep25,Platinum,Medical,Primary Subscriber And Dependent(S),"$1,600.67"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep29,Platinum,Medical,Primary Subscriber And Dependent(S),"$1,616.07"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$1,621.00"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep25,Platinum,Medical,Primary Subscriber And Dependent(S),"$1,682.30"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep29,Platinum,Medical,Primary Subscriber And Dependent(S),"$1,698.50"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$1,702.04"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,721.83"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,724.82"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,794.86"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,797.99"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,803.83"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,821.29"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Primary Subscriber And Dependent(S),"$1,838.10"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,855.90"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep25,Platinum,Medical,Couple,"$1,883.14"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep29,Platinum,Medical,Couple,"$1,901.26"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,934.33"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Primary Subscriber And Dependent(S),"$1,937.69"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep25,Platinum,Medical,Couple,"$1,979.18"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep29,Platinum,Medical,Couple,"$1,998.24"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,025.68"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,029.20"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Couple,"$2,111.60"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Couple,"$2,115.28"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Couple,"$2,122.15"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,142.69"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Couple,"$2,162.47"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,183.41"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,275.68"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple,"$2,279.64"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep25, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$2,309.93"
+Fidelis Care,"Ambetter from Fidelis Care Platinum, Platinum, ST, INN, Fidelis Care HBX Network, Dep29, Free Telemedicine, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$2,425.41"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep25,Platinum,Medical,Couple And Dependent(S),"$2,683.47"
+Independent Health,FlexFit Platinum NS OON IHC Network Marketplace Dep29,Platinum,Medical,Couple And Dependent(S),"$2,709.30"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep25,Platinum,Medical,Couple And Dependent(S),"$2,820.33"
+Independent Health,Standard Platinum ST OON IHC Network Marketplace Dep29,Platinum,Medical,Couple And Dependent(S),"$2,847.49"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$2,886.59"
+Highmark Blue Cross Blue Shield,"IND POS Plus, Platinum, NS, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$2,891.61"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep25, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Couple And Dependent(S),"$3,009.03"
+Highmark Blue Cross Blue Shield,"Platinum IND POS Plus, Platinum, NS, OON, POS, Dep29, Family Vision, Family Dental, WP",Platinum,Medical Plus Dental,Couple And Dependent(S),"$3,014.27"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep25, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Couple And Dependent(S),"$3,024.06"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$3,053.33"
+Univera Healthcare,"Platinum Select, Platinum, NS, INN, Univera EPO Local, Dep29, Adult/Family Dental, Adult Vision, Acupuncture",Platinum,Medical Plus Dental,Couple And Dependent(S),"$3,081.52"
+Univera Healthcare,"Platinum Standard, Platinum, ST, INN, Univera EPO Local, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$3,111.35"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep25, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$3,242.84"
+Highmark Blue Cross Blue Shield,"Platinum Standard, Platinum, ST, OON, POS, Dep29, Pediatric Dental",Platinum,Medical Plus Child Dental,Couple And Dependent(S),"$3,248.49"
+Fidelis Care,"Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Individual,$171.07
+Fidelis Care,"Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$290.82
+Univera Healthcare,"Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Individual,$300.75
+Independent Health,Standard Catastrophic ST INN IHC Network Marketplace Dep25,Catastrophic,Medical,Individual,$341.17
+Fidelis Care,"Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Couple,$342.14
+Fidelis Care,"Ambetter from Fidelis Care Catastrophic, Catastrophic, ST, INN, Fidelis Care HBX Network, 3 Free PCP Visits, Free Telemedicine, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Couple And Dependent(S),$487.55
+Univera Healthcare,"Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Primary Subscriber And Dependent(S),$511.27
+Independent Health,Standard Catastrophic ST INN IHC Network Marketplace Dep25,Catastrophic,Medical,Primary Subscriber And Dependent(S),$579.99
+Univera Healthcare,"Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Couple,$601.50
+Independent Health,Standard Catastrophic ST INN IHC Network Marketplace Dep25,Catastrophic,Medical,Couple,$682.34
+Univera Healthcare,"Base Catastrophic, ST, INN, Univera EPO Local, Dep25, Pediatric Dental",Catastrophic,Medical Plus Child Dental,Couple And Dependent(S),$857.14
+Independent Health,Standard Catastrophic ST INN IHC Network Marketplace Dep25,Catastrophic,Medical,Couple And Dependent(S),$972.33
+Solstice Health Insurance Company,EssentialSmile EPO 111 NS INN Dep 29 Family Dental,Low,Family Dental,Individual,$8.54
+"Delta Dental of New York, Inc.",Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP,Low,Family Dental,Individual,$14.86
+Guardian,"Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Individual,$14.98
+Solstice Health Insurance Company,EssentialSmile EPO 111 NS INN Dep 29 Family Dental,Low,Family Dental,Couple,$17.08
+Guardian,"Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Individual,$17.58
+Guardian,"Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Individual,$19.98
+Univera Healthcare,"Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Individual,$27.79
+Solstice Health Insurance Company,EssentialSmile EPO 111 NS INN Dep 29 Family Dental,Low,Family Dental,Primary Subscriber And Dependent(S),$29.19
+"Delta Dental of New York, Inc.",Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP,Low,Family Dental,Couple,$29.72
+Guardian,"Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple,$30.41
+Guardian,"Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple,$35.70
+Univera Healthcare,"Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Individual,$39.00
+Guardian,"Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple,$40.56
+Solstice Health Insurance Company,EssentialSmile EPO 111 NS INN Dep 29 Family Dental,Low,Family Dental,Couple And Dependent(S),$42.68
+"Delta Dental of New York, Inc.",Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP,Low,Family Dental,Primary Subscriber And Dependent(S),$46.72
+Guardian,"Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Primary Subscriber And Dependent(S),$49.98
+Guardian,"Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Primary Subscriber And Dependent(S),$52.58
+Guardian,"Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Primary Subscriber And Dependent(S),$54.98
+Univera Healthcare,"Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple,$55.59
+"Delta Dental of New York, Inc.",Delta Dental PPO Basic Plan for Families NS OON Dep 25 Family Dental WP,Low,Family Dental,Couple And Dependent(S),$61.58
+Guardian,"Guardian Family Preventive Plus, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple And Dependent(S),$68.17
+Guardian,"Guardian Family Basics, NS, OON, DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple And Dependent(S),$73.45
+Univera Healthcare,"Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple,$77.99
+Guardian,"Guardian Family Essentials, NS, OON DentalGuard Preferred Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple And Dependent(S),$78.32
+Univera Healthcare,"Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Primary Subscriber And Dependent(S),$80.97
+Univera Healthcare,"Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Primary Subscriber And Dependent(S),$103.63
+Univera Healthcare,"Healthy Smile Family Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple And Dependent(S),$122.22
+Univera Healthcare,"Healthy Smile Premier Dental, Low, NS, OON, Univera Healthcare Dental Network, Dep25, Adult/Family Dental, WP",Low,Family Dental,Couple And Dependent(S),$158.98
